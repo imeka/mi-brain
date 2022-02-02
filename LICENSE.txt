@@ -1,0 +1,309 @@
+IMEKA LICENSE START
+
+END USER SOFTWARE LICENSE AGREEMENT
+
+NOTICE TO USER: PLEASE READ THIS CONTRACT CAREFULLY. BY USING ALL OR ANY PORTION
+OF THE SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT,
+INCLUDING, IN PARTICULAR THE LIMITATIONS ON: USE CONTAINED IN SECTION 2;
+TRANSFERABILITY IN SECTION 4; WARRANTY IN SECTION 6 AND 7; AND LIABILITY IN
+SECTION 8. YOU AGREE THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN
+NEGOTIATED AGREEMENT SIGNED BY YOU. IF YOU DO NOT AGREE, DO NOT USE THIS
+SOFTWARE.
+
+1. Definitions
+
+When used in this Agreement, the following terms shall have the respective
+meanings indicated, such meanings to be applicable to both the singular and
+plural forms of the terms defined:
+
+"Licensor" means Imeka Solutions Inc., with its main address located at
+
+195 Belvédère N, bureau 201, Sherbrooke, Qc, Canada, J1H 4A7
+
+"Software" means (a) all of the contents of the files, disk(s), CD-ROM(s) or
+other media with which this Agreement is provided, including but not limited to
+(i) Imeka Solutions Inc. or third party computer information or software; (ii)
+digital images, stock photographs, clip art, sounds or other artistic works
+("Stock Files"); (iii) related explanatory written materials or files
+("Documentation"); and (iv) fonts; and (b) upgrades, modified versions, updates,
+additions, and copies of the Software, if any, licensed to you by Imeka
+Solutions Inc. (collectively, "Updates").
+
+"Use" or "Using" means to access, install, download, copy or otherwise benefit
+from using the functionality of the Software in accordance with the
+Documentation.
+
+“Licensee” means You or Your Company, unless otherwise indicated.
+
+"Permitted Number" means one (1) unless otherwise indicated under a valid
+license (e.g. volume license) granted by Imeka Solutions Inc..
+
+"Computer" means an electronic device that accepts information in digital or
+similar form and manipulates it for a specific result based on a sequence of
+instructions.
+
+
+2. Software License
+
+As long as you comply with the terms of this End User License Agreement (the
+"Agreement"), Imeka Solutions Inc. grants to you a non-exclusive license to Use
+the Software for the purposes described in the Documentation. Some third party
+materials included in the Software may be subject to other terms and conditions,
+which are typically found in a "Read Me" file located near such materials.
+
+
+2.1 General Use
+
+You may install and Use a copy of the Software on your compatible computer, up
+to the Permitted Number of computers; and
+
+2.2 Backup Copy
+
+You may make one backup copy of the Software, provided your backup copy is not
+installed or used on any computer. You may not transfer the rights to a backup
+copy unless you transfer all rights in the Software as provided under Section 6.
+
+2.3 Home Use
+
+You, as the primary user of the computer on which the Software is installed, may
+also install the Software on one of your home computers. However, the Software
+may not be used on your home computer at the same time the Software on the
+primary computer is being used.
+
+2.4 Limitations
+
+To the extent that the Software includes Imeka Solutions Inc. MI-BONE and/or
+MI-BRAIN and/or MI-HEART software, (i) you may not customize the installer for
+such software (e.g., installation of additional plug-in and help files);
+however, you may not otherwise alter or modify the installer program or create
+a new installer for any of such software, (ii) such software is licensed and
+distributed by Imeka Solutions Inc., (iii) you are not authorized to use
+any plug-in or enhancement that permits you to save modifications to a [FORMAT]
+file with such softwarem, and (iv) you might not use the software for
+commercial purposes
+
+3. Intellectual Property Rights
+
+The Software and any copies that you are authorized by Imeka Solutions Inc. to
+make are the intellectual property of and are owned by Imeka Solutions Inc. and
+its suppliers. The structure, organization and code of the Software are the
+valuable trade secrets and confidential information of Imeka Solutions Inc. and
+its suppliers. The Software is protected by copyright, including without
+limitation by Canadian Copyright Law, international treaty provisions and
+applicable laws in the country in which it is being used. You may not copy the
+Software, except as set forth in Section 2 ("Software License").
+
+Any copies that you are permitted to make pursuant to this Agreement must
+contain the same copyright and other proprietary notices that appear on or in
+the Software. You also agree not to reverse engineer, decompile, disassemble or
+otherwise attempt to discover the source code of the Software except to the
+extent you may be expressly permitted to decompile under applicable law, it is
+essential to do so in order to achieve operability of the Software with another
+software program, and you have first requested Imeka Solutions Inc. to provide
+the information necessary to achieve such operability and Imeka Solutions Inc.
+has not made such information available.
+
+Imeka Solutions Inc. has the right to impose reasonable conditions and to
+request a reasonable fee before providing such information. Any information
+supplied by Imeka Solutions Inc. or obtained by you, as permitted hereunder, may
+only be used by you for the purpose described herein and may not be disclosed to
+any third party or used to create any software which is substantially similar to
+the expression of the Software. Requests for information should be directed to
+the Imeka Solutions Inc. Customer Support Department. Trademarks shall be used
+in accordance with accepted trademark practice, including identification of
+trademarks owners' names. Trademarks can only be used to identify printed output
+produced by the Software and such use of any trademark does not give you any
+rights of ownership in that trademark. Except as expressly stated above, this
+Agreement does not grant you any intellectual property rights in the Software.
+
+
+4. Transfer
+
+You may not, rent, lease, sublicense or authorize all or any portion of the
+Software to be copied onto another users computer except as may be expressly
+permitted herein. You may, however, transfer all your rights to Use the Software
+to another person or legal entity provided that: (a) you also transfer each this
+Agreement, the Software and all other software or hardware bundled or
+pre-installed with the Software, including all copies, Updates and prior
+versions, and all copies of font software converted into other formats, to such
+person or entity; (b) you retain no copies, including backups and copies stored
+on a computer; and (c) the receiving party accepts the terms and conditions of
+this Agreement and any other terms and conditions upon which you legally
+purchased a license to the Software. Notwithstanding the foregoing, you may not
+transfer education, pre-release, or not for resale copies of the Software.
+
+
+5. Multiple Environment Software / Multiple Language Software / Dual Media
+Software / Multiple Copies/ Bundles / Updates
+
+If the Software supports multiple platforms or languages, if you receive the
+Software on multiple media, if you otherwise receive multiple copies of the
+Software, or if you received the Software bundled with other software, the total
+number of your computers on which all versions of the Software are installed may
+not exceed the Permitted Number. You may not, rent, lease, sublicense, lend or
+transfer any versions or copies of such Software you do not Use. If the Software
+is an Update to a previous version of the Software, you must possess a valid
+license to such previous version in order to Use the Update. You may continue to
+Use the previous version of the Software on your computer after you receive the
+Update to assist you in the transition to the Update, provided that: the Update
+and the previous version are installed on the same computer; the previous
+version or copies thereof are not transferred to another party or computer
+unless all copies of the Update are also transferred to such party or computer;
+and you acknowledge that any obligation Imeka Solutions Inc. may have to support
+the previous version of the Software may be ended upon availability of the
+Update.
+
+
+6. NO WARRANTY
+
+The Software is being delivered to you "AS IS" and Imeka Solutions Inc. makes no
+warranty as to its use or performance. Imeka Solutions Inc. AND ITS SUPPLIERS DO
+NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE
+SOFTWARE. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR TERM TO THE
+EXTENT TO WHICH THE SAME CANNOT OR MAY NOT BE EXCLUDED OR LIMITED BY LAW
+APPLICABLE TO YOU IN YOUR JURISDICTION, Imeka Solutions Inc. AND ITS SUPPLIERS
+MAKE NO WARRANTIES CONDITIONS, REPRESENTATIONS, OR TERMS (EXPRESS OR IMPLIED
+WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER
+INCLUDING WITHOUT LIMITATION NONINFRINGEMENT OF THIRD PARTY RIGHTS,
+MERCHANTABILITY, INTEGRATION, SATISFACTORY QUALITY, OR FITNESS FOR ANY
+PARTICULAR PURPOSE. FURTHERMORE, THIS SOFTWARE MAY NOT BE USED FOR MEDICAL
+DIAGNOSTIC AS IT IS NOT SANCTIONNED BY AUTHORITIES SUCH AS HEALTH-CANADA AND THE
+FOOD AND DRUG ADMINISTRATION.
+
+
+7. Pre-release Product Additional Terms
+
+If the product you have received with this license is pre-commercial release or
+beta Software ("Pre-release Software"), then the following Section applies. To
+the extent that any provision in this Section is in conflict with any other term
+or condition in this Agreement, this Section shall supercede such other term(s)
+and condition(s) with respect to the Pre-release Software, but only to the
+extent necessary to resolve the conflict. You acknowledge that the Software is a
+pre-release version, does not represent final product from Imeka Solutions Inc.,
+and may contain bugs, errors and other problems that could cause system or other
+failures and data loss. Consequently, the Pre-release Software is provided to
+you "AS-IS", and Imeka Solutions Inc. disclaims any warranty or liability
+obligations to you of any kind. WHERE LEGALLY LIABILITY CANNOT BE EXCLUDED FOR
+PRE-RELEASE SOFTWARE, BUT IT MAY BE LIMITED, Imeka Solutions Inc.'S LIABILITY
+AND THAT OF ITS SUPPLIERS SHALL BE LIMITED TO THE SUM OF FIFTY DOLLARS (CAD.
+$50) IN TOTAL. You acknowledge that Imeka Solutions Inc. has not promised or
+guaranteed to you that Pre-release Software will be announced or made available
+to anyone in the future, that Imeka Solutions Inc. has no express or implied
+obligation to you to announce or introduce the Pre-release Software and that
+Imeka Solutions Inc. may not introduce a product similar to or compatible with
+the Pre-release Software. Accordingly, you acknowledge that any research or
+development that you perform regarding the Pre-release Software or any product
+associated with the Pre-release Software is done entirely at your own risk.
+During the term of this Agreement, if requested by Imeka Solutions Inc. , you
+will provide feedback to Imeka Solutions Inc. regarding testing and use of the
+Pre-release Software, including error or bug reports. If you have been provided
+the Pre-release Software pursuant to a separate written agreement, such as the
+Imeka Solutions Inc. Serial Agreement for Unreleased Products, your use of the
+Software is also governed by such agreement. You agree that you may not and
+certify that you will not sublicense, lease, loan, rent, or transfer the
+Pre-release Software. Upon receipt of a later unreleased version of the
+Pre-release Software or release by Imeka Solutions Inc. of a publicly released
+commercial version of the Software, whether as a stand-alone product or as part
+of a larger product, you agree to return or destroy all earlier Pre-release
+Software received from Imeka Solutions Inc. and to abide by the terms of the End
+User License Agreement for any such later versions of the Pre-release Software.
+Notwithstanding anything in this Section to the contrary, if you are located
+outside the United States of America or Canada, you agree that you will return
+or destroy all unreleased versions of the Pre-release Software within thirty
+(30) days of the completion of your testing of the Software when such date is
+earlier than the date for Imeka Solutions Inc.'s first commercial shipment of
+the publicly released (commercial) Software.
+
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT WILL Imeka Solutions Inc. OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY
+DAMAGES, CLAIMS OR COSTS WHATSOEVER OR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL
+DAMAGES, OR ANY LOST PROFITS OR LOST SAVINGS, EVEN IF AN Imeka Solutions Inc.
+REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS, DAMAGES, CLAIMS
+OR COSTS OR FOR ANY CLAIM BY ANY THIRD PARTY. THE FOREGOING LIMITATIONS AND
+EXCLUSIONS APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW IN YOUR JURISDICTION.
+Imeka Solutions Inc.'S AGGREGATE LIABILITY AND THAT OF ITS SUPPLIERS UNDER OR IN
+CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT PAID FOR THE
+SOFTWARE, IF ANY. Nothing contained in this Agreement limits Imeka Solutions
+Inc.'s liability to you in the event of death or personal injury resulting from
+Imeka Solutions Inc.'s negligence or for the tort of deceit (fraud). Imeka
+Solutions Inc. is acting on behalf of its suppliers for the purpose of
+disclaiming, excluding and/or limiting obligations, warranties and liability as
+provided in this Agreement, but in no other respects and for no other purpose.
+For further information, please see the jurisdiction specific information at the
+end of this Agreement, if any, or contact Imeka Solutions Inc.'s Customer
+Support Department.
+
+
+9. Governing Law
+
+This Agreement shall be governed by and interpreted in accordance with the laws
+of the Province of Quebec, Canada.
+
+
+10. General Provisions
+
+If any part of this Agreement is found void and unenforceable, it will not
+affect the validity of the balance of the Agreement, which shall remain valid
+and enforceable according to its terms. This Agreement shall not prejudice the
+statutory rights of any party dealing as a consumer. This Agreement may only be
+modified by a writing signed by an authorized officer of Imeka Solutions Inc..
+Updates may be licensed to you by Imeka Solutions Inc. with additional or
+different terms. This is the entire agreement between Imeka Solutions Inc. and
+you relating to the Software and it supersedes any prior representations,
+discussions, undertakings, communications or advertising relating to the
+Software.
+
+
+11. Compliance with Licenses
+
+If you are a business or organization, you agree that upon request from Imeka
+Solutions Inc. or Imeka Solutions Inc. 's authorized representative, you will
+within thirty (30) days fully document and certify that use of any and all Imeka
+Solutions Inc. Software at the time of the request is in conformity with your
+valid licenses from Imeka Solutions Inc..
+
+If you have any questions regarding this Agreement or if you wish to request any
+information from Imeka Solutions Inc. please use the address and contact
+information included with this product to contact the Imeka Solutions Inc.
+office serving your jurisdiction.
+
+Imeka Solutions Inc., MI-BONE, MI-BRAIN and MI-HEART are either registered
+trademarks or trademarks of Imeka Solutions Inc. in the United States and/or
+other countries.
+
+IMEKA LICENSE END
+
+GERMAN CANCER RESEARCH CENTER LICENSE START
+
+Copyright (c) 2003-2012 German Cancer Research Center, Division of Medical and
+Biological Informatics All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above
+    copyright notice, this list of conditions and the following disclaimer.
+
+    * Redistributions in binary form must reproduce the above
+    copyright notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the distribution.
+
+    * Neither the name of the German Cancer Research Center,
+    nor the names of its contributors may be used to endorse or promote
+    products derived from this software without specific prior written
+    permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+GERMAN CANCER RESEARCH CENTER LICENSE END
