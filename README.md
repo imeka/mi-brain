@@ -3,11 +3,11 @@ MI-Brain
 
 Imeka medical imaging applications based on [Medical Imaging Interaction Toolkit (MITK)](https://www.mitk.org).
 
-We remove several features from MITK and add our own plugins in order to have a practical and fast image viewer for diffusion image experts. This is a free-to-use project but all Imeka modifications are private (not open source).
+We removed several features from MITK and added our own plugins in order to have a practical and fast image viewer for diffusion image tailored to the needs of DMRI experts. This is a free-to-use project but all Imeka modifications are private (not open source).
 
-The current release is based on MITK 2018.04 and has been released on 2020-04-09. We do plan to release other versions in the future.
+The current release is based on MITK 2018.04 and has been released on 2020-04-09. We do plan to release updated versions of MI-Brain in the future. Click [here](https://github.com/imeka/mi-brain/releases) to download MI-Brain.
 
-If you use MI-Brain in your research, please cite this [paper](https://www.researchgate.net/profile/Francois-Rheault/publication/312190253_MI-Brain_a_software_to_handle_tractograms_and_perform_interactive_virtual_dissection/links/5875154608aebf17d3b3f2f3/MI-Brain-a-software-to-handle-tractograms-and-perform-interactive-virtual-dissection.pdf):
+If you use MI-Brain in your research, you are required to cite the following [paper](https://www.researchgate.net/profile/Francois-Rheault/publication/312190253_MI-Brain_a_software_to_handle_tractograms_and_perform_interactive_virtual_dissection/links/5875154608aebf17d3b3f2f3/MI-Brain-a-software-to-handle-tractograms-and-perform-interactive-virtual-dissection.pdf):
 
 > Rheault, F., Houde, J-C., Goyette, N., Morency, F., Descoteaux, M., MI-Brain, a software to handle tractograms and perform interactive virtual dissection, ISMRM Diffusion study group workshop, Lisbon, 2016.
 
